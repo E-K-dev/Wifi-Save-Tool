@@ -4,7 +4,6 @@
 
 > ****Usando Sqlite 3.****
 
-
-***Para su instalacion se debe ejecutar el comando.***
+***Para su instalacion se debe ejecutar el comando # ***
 
 > ****pip install -r req.txt****
